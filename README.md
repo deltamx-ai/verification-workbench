@@ -22,3 +22,4 @@
 - `docs/architecture/design-conversation-notes.md`
 - `docs/architecture/playwright-and-ui-design-notes.md`
 - `docs/architecture/earlier-design-context-notes.md`
+- `docs/architecture/plugin-skill-loop-design.md`
