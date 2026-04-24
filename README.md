@@ -27,3 +27,4 @@
 - `docs/architecture/runtime-and-state-machine-design.md`
 - `docs/architecture/system-architecture-overview.md`
 - `docs/architecture/extension-points-and-feature-integration.md`
+- `docs/architecture/implementation-plan.md`
