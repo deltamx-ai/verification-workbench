@@ -20,3 +20,5 @@
 - `docs/architecture/context-recovery.md`
 - `docs/architecture/roadmap.md`
 - `docs/architecture/design-conversation-notes.md`
+- `docs/architecture/playwright-and-ui-design-notes.md`
+- `docs/architecture/earlier-design-context-notes.md`
