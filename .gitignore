@@ -1,0 +1,8 @@
+.DS_Store
+*.db
+*.sqlite
+*.sqlite3
+/artifacts/
+/node_modules/
+/dist/
+/target/
