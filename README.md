@@ -24,3 +24,5 @@
 - `docs/architecture/earlier-design-context-notes.md`
 - `docs/architecture/plugin-skill-loop-design.md`
 - `docs/architecture/skill-and-knowledge-management.md`
+- `docs/architecture/runtime-and-state-machine-design.md`
+- `docs/architecture/system-architecture-overview.md`
