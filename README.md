@@ -13,3 +13,10 @@
 - SQLite 单库优先
 - 项目协作型记忆优先
 - 一个 thread 支持关联多个 task / run
+
+## 文档索引
+- `docs/architecture/overall-design.md`
+- `docs/architecture/data-model-outline.md`
+- `docs/architecture/context-recovery.md`
+- `docs/architecture/roadmap.md`
+- `docs/architecture/design-conversation-notes.md`
