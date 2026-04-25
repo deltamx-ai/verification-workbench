@@ -32,3 +32,4 @@
 - `docs/architecture/search-read-write-validation-schema.md`
 - `docs/architecture/search-read-write-validation-runtime-contract.md`
 - `docs/architecture/pre-development-checklist.md`
+- `docs/architecture/workflow-scheduling-and-automation-design.md`
