@@ -29,3 +29,6 @@
 - `docs/architecture/extension-points-and-feature-integration.md`
 - `docs/architecture/implementation-plan.md`
 - `docs/architecture/search-read-write-validation-loop.md`
+- `docs/architecture/search-read-write-validation-schema.md`
+- `docs/architecture/search-read-write-validation-runtime-contract.md`
+- `docs/architecture/pre-development-checklist.md`
