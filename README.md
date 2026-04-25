@@ -28,3 +28,4 @@
 - `docs/architecture/system-architecture-overview.md`
 - `docs/architecture/extension-points-and-feature-integration.md`
 - `docs/architecture/implementation-plan.md`
+- `docs/architecture/search-read-write-validation-loop.md`
