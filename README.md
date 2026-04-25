@@ -33,3 +33,10 @@
 - `docs/architecture/search-read-write-validation-runtime-contract.md`
 - `docs/architecture/pre-development-checklist.md`
 - `docs/architecture/workflow-scheduling-and-automation-design.md`
+- `docs/architecture/workflow-schema-design.md`
+- `docs/architecture/workflow-runtime-contract.md`
+- `docs/architecture/error-and-governance-model.md`
+- `docs/architecture/accuracy-assurance-and-evaluation-design.md`
+- `docs/architecture/observability-and-debuggability-design.md`
+- `docs/architecture/accuracy-assurance-and-evaluation-design.md`
+- `docs/architecture/observability-and-debuggability-design.md`
