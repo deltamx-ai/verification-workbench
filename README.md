@@ -38,5 +38,5 @@
 - `docs/architecture/error-and-governance-model.md`
 - `docs/architecture/accuracy-assurance-and-evaluation-design.md`
 - `docs/architecture/observability-and-debuggability-design.md`
-- `docs/architecture/accuracy-assurance-and-evaluation-design.md`
-- `docs/architecture/observability-and-debuggability-design.md`
+- `docs/architecture/standards-and-database-design.md`
+- `docs/architecture/architecture-summary-and-blueprint.md`
