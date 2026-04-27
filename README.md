@@ -46,3 +46,4 @@
 - `docs/architecture/alma-message-graph-model.md`
 - `docs/architecture/alma-runtime-sequence-flows.md`
 - `docs/architecture/alma-runtime-confidence-boundaries.md`
+- `docs/architecture/alma-folder-structure-full-map.md`
