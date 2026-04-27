@@ -41,3 +41,4 @@
 - `docs/architecture/standards-and-database-design.md`
 - `docs/architecture/architecture-summary-and-blueprint.md`
 - `docs/architecture/alma-runtime-reverse-engineering.md`
+- `docs/architecture/alma-runtime-architecture-diagram.md`
