@@ -40,3 +40,4 @@
 - `docs/architecture/observability-and-debuggability-design.md`
 - `docs/architecture/standards-and-database-design.md`
 - `docs/architecture/architecture-summary-and-blueprint.md`
+- `docs/architecture/alma-runtime-reverse-engineering.md`
