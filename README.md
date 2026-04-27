@@ -43,3 +43,6 @@
 - `docs/architecture/alma-runtime-reverse-engineering.md`
 - `docs/architecture/alma-runtime-architecture-diagram.md`
 - `docs/architecture/alma-runtime-database-map.md`
+- `docs/architecture/alma-message-graph-model.md`
+- `docs/architecture/alma-runtime-sequence-flows.md`
+- `docs/architecture/alma-runtime-confidence-boundaries.md`
