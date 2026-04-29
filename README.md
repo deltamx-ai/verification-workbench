@@ -47,3 +47,5 @@
 - `docs/architecture/alma-runtime-sequence-flows.md`
 - `docs/architecture/alma-runtime-confidence-boundaries.md`
 - `docs/architecture/alma-folder-structure-full-map.md`
+- `docs/architecture/plan-runtime-design.md`
+- `docs/architecture/plan-runtime-implementation-skeleton.md`
